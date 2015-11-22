@@ -1,0 +1,6 @@
+name 'formatron_elk'
+version '0.1.0'
+supports 'ubuntu'
+depends 'formatron_elasticsearch'
+depends 'formatron_logstash'
+depends 'formatron_kibana'
