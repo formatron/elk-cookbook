@@ -1,3 +1,3 @@
-# elk_cookbook
+# elk-cookbook
 
 Formatron ELK cookbook
