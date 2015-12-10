@@ -1,6 +1,6 @@
 name 'formatron_elk'
 version '0.1.0'
-descripton 'Formatron ELK cookbook'
+description 'Formatron ELK cookbook'
 source_url 'https://github.com/formatron/elk-cookbook'
 issues_url 'https://github.com/formatron/elk-cookbook/issues'
 supports 'ubuntu'
